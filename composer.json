@@ -20,7 +20,7 @@
     },
     "require": {
         "php": ">=5.3.3",
-        "lib-openssl": "*",
+        "ext-openssl": "*",
         "phpseclib/phpseclib": "~0.3"
     }
 }
